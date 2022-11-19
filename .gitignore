@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-# Billboard hits
-hot_stuff_2.csv
+# Raw data 
+charts.csv
+charts_processed.csv
